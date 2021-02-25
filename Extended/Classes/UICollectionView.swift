@@ -5,7 +5,7 @@
 //  Created by Amir Shayegh on 2018-09-26.
 //
 
-import Foundation
+import UIKit
 
 extension UICollectionView {
 

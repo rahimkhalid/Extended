@@ -5,7 +5,7 @@
 //  Created by Skyler Smith on 2018-11-09.
 //
 
-import Foundation
+import UIKit
 
 
 extension NSMutableAttributedString {
